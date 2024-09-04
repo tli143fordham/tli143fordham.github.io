@@ -1,0 +1,40 @@
+body{
+    background-color: teal;
+}
+
+p{
+    color: purple;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 72px;
+}
+
+p:hover{
+    color:white;
+}
+
+a{
+    font-size: 69px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:brown;
+}
+
+a:hover{
+    color:aqua;
+}
+
+a:visited{
+    color:black;
+}
+
+img{
+    position: absolute;
+    left: 32vw;
+    border-radius: 500px;
+    border-style: dotted;
+    border-width: 3px;
+}
+img:hover{
+    width: 100px;
+    position: absolute;
+    align-content: center;
+}
